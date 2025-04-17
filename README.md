@@ -32,10 +32,10 @@ Start the Client (in a new terminal or on another device)
 python3 client.py
 
 
-💻 How to Run on Windows
+####💻 How to Run on Windows
 
-###Start the Server
+#####Start the Server
 python server.py
 
-###Start the client
+#####Start the client
 python client.pys
